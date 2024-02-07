@@ -11,7 +11,7 @@ More about that on my LinkedIn: <https://linkedin.com/in/mathieu-van-leemputten-
 - 🔭 I’m currently working on projects with Next.js + Sanity + Three.js
 - 🌱 I’m currently enrolled in a Master in BIM Software Development -> That Open Engine (ifc.js)
 - 🤝 I’m looking to collaborate on interesting AEC-projects
-- 💬 Ask me about ? 🙃
+- 💬 Ask me about solo-traveling, tech, bouldering, music, self-development, architecture, ... 
 - 📫 How to reach me: info@timeoffprojects.be or <https://linkedin.com/in/mathieu-van-leemputten-0b83a0190>
 - 📆 Or book an appointment <https://cal.com/timeoffprojects> 👩‍💼🧑‍💼🏢
 - ⚡ Fun fact: I have an interest in Buddhism teachings 🧘‍♂️
