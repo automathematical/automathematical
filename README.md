@@ -15,4 +15,5 @@ Always learning something new everyday 🤓
 - 💬 Ask me about ? 🙃
 - 📫 How to reach me: info@timeoffprojects.be or <https://linkedin.com/in/mathieu-van-leemputten-0b83a0190> 
 - ⚡ Fun fact: I'm a Buddhism practitioner 🧘‍♂️
-- 📍 Currently living somewhere in South-East Asia 🌎
+
+> “Instead, I have an abundance mentality: When people are genuinely happy at the successes of others, the pie gets larger.” - Stephen R. Covey
