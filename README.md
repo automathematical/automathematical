@@ -4,7 +4,7 @@
 Since 2021 the proud owner of Time Off Projects 🚀 <br>
 Time Off Projects is an agency that's bridging the gap between Architecture-Engineering-Construction (AEC) and Technology <br>
 Over the years I've been trained in various skills trough academia, work experience and my own pursuit of interest 📚 <br>
-software development + architecture and engineering + wood technology <br>
+Being software development + architecture and engineering + wood technology <br>
 More about that on my LinkedIn: <https://linkedin.com/in/mathieu-van-leemputten-0b83a0190> <br>
 Always learning something new everyday 🤓
 
