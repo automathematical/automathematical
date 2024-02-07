@@ -15,4 +15,4 @@ Always learning something new everyday 🤓
 - 💬 Ask me about ? 🙃
 - 📫 How to reach me: info@timeoffprojects.be or <https://linkedin.com/in/mathieu-van-leemputten-0b83a0190> 
 - ⚡ Fun fact: I'm a Buddhism practitioner 🧘‍♂️
-- 📍 Currently living somewhere in South-East Asia 
+- 📍 Currently living somewhere in South-East Asia 🌎
