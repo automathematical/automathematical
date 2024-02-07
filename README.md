@@ -14,7 +14,7 @@ More about that on my LinkedIn: <https://linkedin.com/in/mathieu-van-leemputten-
 - 💬 Ask me about ? 🙃
 - 📫 How to reach me: info@timeoffprojects.be or <https://linkedin.com/in/mathieu-van-leemputten-0b83a0190>
 - 📆 Or book an appointment <https://cal.com/timeoffprojects> 👩‍💼🧑‍💼🏢
-- ⚡ Fun fact: I'm a buddhism practitioner 🧘‍♂️
+- ⚡ Fun fact: I have an interest in Buddhism teachings 🧘‍♂️
 
 > “Instead, I have an abundance mentality: When people are genuinely happy at the successes of others, the pie gets larger.” - Stephen R. Covey
 
