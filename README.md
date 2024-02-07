@@ -17,3 +17,4 @@ More about that on my LinkedIn: <https://linkedin.com/in/mathieu-van-leemputten-
 - ⚡ Fun fact: I'm a buddhism practitioner 🧘‍♂️
 
 > “Instead, I have an abundance mentality: When people are genuinely happy at the successes of others, the pie gets larger.” - Stephen R. Covey
+
