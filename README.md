@@ -18,3 +18,4 @@ More about that on my <a href="https://linkedin.com/in/mathieu-van-leemputten-0b
 
 > “Instead, I have an abundance mentality: When people are genuinely happy at the successes of others, the pie gets larger.” - Stephen R. Covey
 
+<a href="https://react.dev"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" height="30px" width="30px"></img></a>
