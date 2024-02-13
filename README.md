@@ -13,7 +13,7 @@ More about that on my <a href="https://linkedin.com/in/mathieu-van-leemputten-0b
 - 🤝 I’m looking to collaborate on interesting AEC-projects
 - 💬 Ask me about solo-traveling, tech, bouldering, <a href="https://open.spotify.com/user/116791721?si=328b7e0fe4dc4b20">music</a>, self-development, architecture, ... 
 - 📫 How to reach me: <a href="info@timeoffprojects.be">mail</a>  or <a href="https://linkedin.com/in/mathieu-van-leemputten-0b83a0190">LinkedIn</a>
-- 📆 Or <a href="https://cal.com/timeoffprojects">book an appointment</a> 👩‍💼🧑‍💼🏢
+- 📆 Or <a href="https://cal.com/timeoffprojects?redirect=false">book an appointment</a> 👩‍💼🧑‍💼🏢
 - ⚡ Fun fact: I'm a student of Buddha's teachings 🧘‍♂️
 
 > “Instead, I have an abundance mentality: When people are genuinely happy at the successes of others, the pie gets larger.” - Stephen R. Covey
