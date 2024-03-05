@@ -12,7 +12,7 @@ More about that on my <a href="https://linkedin.com/in/mathieu-van-leemputten-0b
 
 - 🔭 I’m currently working on projects with Next.js + Sanity + Three.js
 - 🌱 I’m currently enrolled in a Master in BIM Software Development -> That Open Company (ifc.js)
-- 🤝 I’m looking to collaborate on interesting AEC-projects
+- 🤝 I’m looking to collaborate on interesting projects
 - 💬 Ask me about solo-traveling, tech, bouldering, <a href="https://open.spotify.com/user/116791721?si=328b7e0fe4dc4b20">music</a>, self-development, architecture, ... 
 - 📫 How to reach me: <a href="info@timeoffprojects.be">mail</a>  or <a href="https://linkedin.com/in/mathieu-van-leemputten-0b83a0190">LinkedIn</a>
 - 📆 Or <a href="https://cal.com/timeoffprojects?redirect=false">book an appointment</a> 👩‍💼🧑‍💼🏢
