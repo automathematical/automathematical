@@ -38,4 +38,5 @@ Technology I like to build with:
 <a href="https://unity.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Unity_Technologies_logo.svg" align="left" height="30px" width="100px"></img></a>
 <a href="https://www.unrealengine.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/d/da/Unreal_Engine_Logo.svg" align="left" height="30px" width="30px"></img></a>
 <a href="https://tailwindcss.com"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" align="left" height="30px" width="30px"></img></a>
+<a href="https://www.typescriptlang.org"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" align="left" height="30px" width="30px"></img></a>
 
