@@ -37,4 +37,5 @@ Technology I like to build with:
 <a href="https://dotnet.microsoft.com/en-us/"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg" align="left" height="30px" width="30px"></img></a>
 <a href="https://unity.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Unity_Technologies_logo.svg" align="left" height="30px" width="100px"></img></a>
 <a href="https://www.unrealengine.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/d/da/Unreal_Engine_Logo.svg" align="left" height="30px" width="30px"></img></a>
+<a href="https://tailwindcss.com"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" align="left" height="30px" width="30px"></img></a>
 
