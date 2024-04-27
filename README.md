@@ -10,7 +10,7 @@ working and learning within software development + architecture and engineering 
 More about that on my <a href="https://linkedin.com/in/mathieu-van-leemputten-0b83a0190">LinkedIn</a> <br>
 
 
-- 🔭 I’m currently working on projects with Next.js + Sanity + Three.js
+- 🔭 I’m currently working on projects with Next.js + Sanity + Three.js (R3F)
 - 🌱 I’m currently enrolled in a Master in BIM Software Development -> That Open Company (ifc.js)
 - 🤝 I’m looking to collaborate on interesting projects
 - 💬 Ask me about solo-traveling, tech, bouldering, <a href="https://open.spotify.com/user/116791721?si=328b7e0fe4dc4b20">music</a>, self-development, architecture, ... 
