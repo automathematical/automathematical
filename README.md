@@ -24,6 +24,7 @@ A quote from my favourite book:
 Technology I like to build with:
 
 <a href="https://react.dev"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" align="left" height="30px" width="30px"></img></a>
+<a href="https://reactnative.dev/"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" align="left" height="30px" width="30px"></img></a>
 <a href="https://nextjs.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" align="left" height="30px" width="300px"></img></a>
 <a href="https://sanity.io/"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Sanity-logo-svg.svg" align="left" height="30px" width="30px"></img></a>
 <a href="https://www.mongodb.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" align="left" height="30px" width="300px"></img></a>
