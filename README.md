@@ -18,7 +18,7 @@ More about that on my <a href="https://linkedin.com/in/mathieu-van-leemputten-0b
 - 📆 Or <a href="https://cal.com/timeoffprojects?redirect=false">book an appointment</a> 👩‍💼🧑‍💼🏢
 - ⚡ Fun fact: I'm a student of Buddha's teachings 🧘‍♂️
 
-Ayo Technology:
+Technology I've got most experience with:
 
 <a href="https://react.dev"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" align="left" height="30px" width="30px"></img></a>
 <a href="https://reactnative.dev/"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" align="left" height="30px" width="30px"></img></a>
