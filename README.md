@@ -1,7 +1,7 @@
 ## Hi there 👋
 ### I'm Mathieu van Leemputten
 
-Since 2022 the proud owner of <a href='https://timeoffprojects.be'>Time Off Projects</a> 🚀 <br>
+Since 2022 the proud owner of <a href='https://timeoffprojects.be'>Time Off Projects</a> & more recently <a href='https://timeoffdevelopment.com'>Time Off Development</a> 🚀 <br>
 Time Off Projects is a creative design agency specialised in digital solutions. We leverage state-of-the-art web technology together with creativity and curiosity to stay ahead of the curve.
 One of the agency's pursuits is closing the gap between Architecture-Engineering-Construction (AEC) and Technology <br>
 
