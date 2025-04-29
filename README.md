@@ -14,7 +14,7 @@ Connect with me on [LinkedIn](https://linkedin.com/in/mathieu-van-leemputten-0b8
 ---
 
 ## 🚀 What I'm Working On
-- 🔭 Projects using **Next.js + Sanity + Three.js (R3F)**
+- 🔭 Projects using **Next.js + Sanity + Three.js (R3F) + n8n**
 - 🌱 Currently enrolled in **Master in BIM Software Development** (That Open Company - [ifc.js](https://ifcjs.github.io/info/))
 - 🤝 Open to collaborating on forward-thinking digital projects
 - 💬 Ask me about **solo-traveling**, **tech**, **bouldering**, **music**, **self-development**, **architecture**, **padel**, and more
