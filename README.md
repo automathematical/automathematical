@@ -1,40 +1,65 @@
-## Hi there 👋
-### I'm Mathieu van Leemputten
+# 👋 Hi there!
 
-Since 2022 the proud owner of <a href='https://timeoffprojects.be'>Time Off Projects</a> & more recently <a href='https://timeoffdevelopment.com'>Time Off Development</a> 🚀 <br>
-Time Off Projects is a creative design agency specialised in digital solutions. We leverage state-of-the-art web technology together with creativity and curiosity to stay ahead of the curve.
-One of the agency's pursuits is closing the gap between Architecture-Engineering-Construction (AEC) and Technology <br>
+## I'm Mathieu van Leemputten
 
-Over the years I have been trained in various skills trough academia, work experience and my own pursuit of interest 📚 <br>
-working and learning within software development + architecture and engineering + wood technology <br>
-More about that on my <a href="https://linkedin.com/in/mathieu-van-leemputten-0b83a0190">LinkedIn</a> <br>
+Founder of [**Time Off Projects**](https://timeoffprojects.be) & [**Time Off Development**](https://timeoffdevelopment.com) 🚀  
+Creative technologist passionate about building modern digital experiences.
 
+At **Time Off Projects**, we specialize in bridging creativity with cutting-edge web technology to design future-proof solutions. One of our pursuits is **closing the gap between Architecture-Engineering-Construction (AEC) and Technology** — shaping the next generation of the built world.
 
-- 🔭 I’m currently working on projects with Next.js + Sanity + Three.js (R3F)
-- 🌱 I’m currently enrolled in a Master in BIM Software Development -> That Open Company (ifc.js)
-- 🤝 I’m looking to collaborate on interesting projects
-- 💬 Ask me about solo-traveling, tech, bouldering, <a href="https://open.spotify.com/user/116791721?si=328b7e0fe4dc4b20">music</a>, self-development, architecture, padel, ... 
-- 📫 How to reach me: <a href="info@timeoffprojects.be">mail</a>  or <a href="https://linkedin.com/in/mathieu-van-leemputten-0b83a0190">LinkedIn</a>
-- 📆 Or <a href="https://cal.com/timeoffprojects?redirect=false">book an appointment</a> 👩‍💼🧑‍💼🏢
-- ⚡ Fun fact: I'm a student of Buddha's teachings 🧘‍♂️
+Over the years, I've gathered diverse expertise through academia, work experience, and personal projects 📚 — blending **software development**, **architecture & engineering**, and **wood technology**.
 
-Technology I've got most experience with:
+Connect with me on [LinkedIn](https://linkedin.com/in/mathieu-van-leemputten-0b83a0190).
 
-<a href="https://react.dev"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" align="left" height="30px" width="30px"></img></a>
-<a href="https://reactnative.dev/"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" align="left" height="30px" width="30px"></img></a>
-<a href="https://nextjs.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" align="left" height="30px" width="300px"></img></a>
-<a href="https://sanity.io/"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Sanity-logo-svg.svg" align="left" height="30px" width="30px"></img></a>
-<a href="https://www.mongodb.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" align="left" height="30px" width="300px"></img></a>
-<a href="https://https://firebase.google.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/3/37/Firebase_Logo.svg" align="left" height="30px" width="300px"></img></a>
-<a href="https://blender.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Logo_Blender.svg" align="left" height="30px" width="300px"></img></a>
-<a href="https://www.autodesk.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Autodesk_Logo.svg" padding="30px" align="left" height="30px" width="200px"></img></a>
-<a href="https://nodejs.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" padding="30px" align="left" height="30px" width="30px"></img></a>
-<a href="https://threejs.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Three.js_Icon.svg" padding="30px" align="left" height="30px" width="30px"></img></a>
-<a href="https://figma.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" padding="30px" align="left" height="30px" width="30px"></img></a>
-<a href="https://adobe.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Adobe_Creative_Cloud_rainbow_icon.svg" padding="30px" align="left" height="30px" width="30px"></img></a>
-<a href="https://dotnet.microsoft.com/en-us/"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg" align="left" height="30px" width="30px"></img></a>
-<a href="https://unity.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Unity_Technologies_logo.svg" align="left" height="30px" width="100px"></img></a>
-<a href="https://www.unrealengine.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/d/da/Unreal_Engine_Logo.svg" align="left" height="30px" width="30px"></img></a>
-<a href="https://tailwindcss.com"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" align="left" height="30px" width="30px"></img></a>
-<a href="https://www.typescriptlang.org"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" align="left" height="30px" width="30px"></img></a>
+---
 
+## 🚀 What I'm Working On
+- 🔭 Projects using **Next.js + Sanity + Three.js (R3F)**
+- 🌱 Currently enrolled in **Master in BIM Software Development** (That Open Company - [ifc.js](https://ifcjs.github.io/info/))
+- 🤝 Open to collaborating on forward-thinking digital projects
+- 💬 Ask me about **solo-traveling**, **tech**, **bouldering**, **music**, **self-development**, **architecture**, **padel**, and more
+- 📩 Reach out: [info@timeoffprojects.be](mailto:info@timeoffprojects.be) | [LinkedIn](https://linkedin.com/in/mathieu-van-leemputten-0b83a0190)
+- 🗖️ Or [book a meeting](https://cal.com/timeoffprojects?redirect=false) 👨‍💼👩‍💼
+
+---
+
+## 🌟 What's New: My Journey into Agentic AI
+
+Lately, I’ve been diving deep into **Agentic AI** — intelligent systems that can autonomously plan, decide, and act.  
+Staying at the edge of innovation, I'm committed to learning and experimenting with the latest trends in autonomous agents, AI orchestration frameworks, and decision-making models.
+
+👉 I’ll be **sharing my learning process, experiments, and findings** here and across my platforms, making this repository (and others to come) a living documentation of that journey.  
+If you're passionate about the future of AI, let's connect — collaboration and idea-sharing are more important than ever in this fast-moving field.
+
+---
+
+## ⚙️ Technology I Work With
+
+<div align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" height="30px" /> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" height="30px" /> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" height="30px" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Sanity-logo-svg.svg" height="30px" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" height="30px" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/37/Firebase_Logo.svg" height="30px" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Logo_Blender.svg" height="30px" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Autodesk_Logo.svg" height="30px" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" height="30px" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Three.js_Icon.svg" height="30px" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" height="30px" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Adobe_Creative_Cloud_rainbow_icon.svg" height="30px" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg" height="30px" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Unity_Technologies_logo.svg" height="30px" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/da/Unreal_Engine_Logo.svg" height="30px" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" height="30px" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" height="30px" />
+</div>
+
+---
+
+## 🧘‍♂️ Fun Fact
+I'm also a lifelong student of **Buddhist teachings** — cultivating mindfulness and wisdom in life and in work.
+
+---
+
+# Let's Build the Future 🌍🚀
