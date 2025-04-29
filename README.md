@@ -37,7 +37,6 @@ If you're passionate about the future of AI, let's connect — collaboration and
 
 <div align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" height="30px" /> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" height="30px" /> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" height="30px" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Sanity-logo-svg.svg" height="30px" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" height="30px" />
