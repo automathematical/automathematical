@@ -52,7 +52,8 @@ If you're passionate about the future of AI, let's connect — collaboration and
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/da/Unreal_Engine_Logo.svg" height="30px" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" height="30px" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" height="30px" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/N8n-logo-new.svg" height="30px" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/N8n-logo-new.svg" height="30px" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Docker-svgrepo-com.svg" height="30px" />
 </div>
 
 ---
