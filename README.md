@@ -5,7 +5,7 @@
 Founder of [**Time Off Projects**](https://timeoffprojects.be) & [**Time Off Development**](https://timeoffdevelopment.com) 🚀  
 Creative technologist passionate about building modern digital experiences.
 
-At **Time Off Projects**, we specialize in bridging creativity with cutting-edge web technology to design future-proof solutions. One of our pursuits is **closing the gap between Architecture-Engineering-Construction (AEC) and Technology** — shaping the next generation of the built world.
+At **Time Off Projects**, we specialize in bridging creativity with cutting-edge web technology to design future-proof solutions. One of my pursuits is **closing the gap between Architecture-Engineering-Construction (AEC) and Technology** — shaping the next generation of the built world.
 
 Over the years, I've gathered diverse expertise through academia, work experience, and personal projects 📚 — blending **software development**, **architecture & engineering**, and **wood technology**.
 
