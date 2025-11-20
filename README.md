@@ -14,7 +14,7 @@ Connect with me on [LinkedIn](https://linkedin.com/in/mathieu-van-leemputten-0b8
 ---
 
 ## 🚀 What I'm Working On
-- 🔭 Projects using **Next.js + Sanity CMS + Node + Three.js (R3F) + n8n/LangChain/Python + AI**
+- 🔭 Projects using **Next.js + Sanity CMS + Node + Three.js (R3F) + n8n/LangChain/Python + AI + Cloudflare**
 - 🌱 Currently enrolled in **Master in BIM Software Development** (That Open Company - [ifc.js](https://ifcjs.github.io/info/))
 - 🤝 Open to collaborating on forward-thinking digital projects
 - 💬 Ask me about **solo-traveling**, **tech**, **bouldering**, **music**, **self-development**, **architecture**, **padel**, and more
@@ -38,6 +38,7 @@ If you're passionate about the future of AI, let's connect — collaboration and
 <div align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" height="30px" /> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" height="30px" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Vercel_logo_black.svg" height="30px" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Sanity-logo-svg.svg" height="30px" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" height="30px" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/37/Firebase_Logo.svg" height="30px" />
@@ -54,6 +55,7 @@ If you're passionate about the future of AI, let's connect — collaboration and
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" height="30px" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/N8n-logo-new.svg" height="30px" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Docker-svgrepo-com.svg" height="30px" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Cloudflare_Logo.svg" height="30px" />
 </div>
 
 ---
