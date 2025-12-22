@@ -44,6 +44,7 @@ If you're passionate about the future of AI, let's connect — collaboration and
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/37/Firebase_Logo.svg" height="30px" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Logo_Blender.svg" height="30px" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Autodesk_Logo.svg" height="30px" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e2/Logo_Rhino.jpg" height="30px" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" height="30px" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Three.js_Icon.svg" height="30px" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" height="30px" />
