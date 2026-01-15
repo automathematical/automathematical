@@ -9,7 +9,7 @@ At **Time Off Projects**, we specialize in bridging creativity with cutting-edge
 
 Over the years, I've gathered diverse expertise through academia, work experience, and personal projects 📚 — blending **software development**, **architecture & engineering**, and **wood technology**.
 
-Connect with me on [LinkedIn](https://linkedin.com/in/mathieuvanleemputten.
+Connect with me on [LinkedIn](https://linkedin.com/in/mathieuvanleemputten).
 
 ---
 
@@ -18,7 +18,7 @@ Connect with me on [LinkedIn](https://linkedin.com/in/mathieuvanleemputten.
 - 🌱 Currently enrolled in **Master in BIM Software Development** (That Open Company - [ifc.js](https://ifcjs.github.io/info/))
 - 🤝 Open to collaborating on forward-thinking digital projects
 - 💬 Ask me about **solo-traveling**, **tech**, **bouldering**, **music**, **self-development**, **architecture**, **padel**, and more
-- 📩 Reach out: [info@timeoffprojects.be](mailto:info@timeoffprojects.be) | [LinkedIn](https://linkedin.com/in/mathieu-van-leemputten-0b83a0190)
+- 📩 Reach out: [info@timeoffprojects.be](mailto:info@timeoffprojects.be) | [LinkedIn](https://linkedin.com/in/mathieuvanleemputten)
 - 🗖️ Or [book a meeting](https://cal.com/timeoffprojects?redirect=false) 👨‍💼👩‍💼
 
 ---
