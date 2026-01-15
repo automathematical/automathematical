@@ -9,7 +9,7 @@ At **Time Off Projects**, we specialize in bridging creativity with cutting-edge
 
 Over the years, I've gathered diverse expertise through academia, work experience, and personal projects 📚 — blending **software development**, **architecture & engineering**, and **wood technology**.
 
-Connect with me on [LinkedIn](https://linkedin.com/in/mathieu-van-leemputten-0b83a0190).
+Connect with me on [LinkedIn](https://linkedin.com/in/mathieuvanleemputten.
 
 ---
 
