@@ -1,11 +1,11 @@
 # 👋 Hi, I'm Mathieu Van Leemputten
 
-Creative technologist and fullstack developer, and founder of **[Runwell Studio](https://runwell.studio)** — a strategic digital partnership building custom websites, business automation, and custom applications for growth-focused businesses. I prefer deep customization over no-code shortcuts.
+Creative technologist and fullstack developer, and founder of **[Runwell Studio](https://runwell.studio/?utm_source=github&utm_medium=social)** — a strategic digital partnership building custom websites, business automation, and custom applications for growth-focused businesses. I prefer deep customization over no-code shortcuts.
 
 My background spans architectural design, 3D programming, and balancing between roles as Product Owner and Software Developer. One thread I keep pulling on: **closing the gap between Architecture-Engineering-Construction (AEC) and modern web technology** — shaping the next generation of the built world.
 
 📍 Belgium · working with people worldwide
-🌐 [runwell.studio](https://runwell.studio)
+🌐 [runwell.studio](https://runwell.studio/?utm_source=github&utm_medium=social)
 
 ---
 
