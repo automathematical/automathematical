@@ -65,7 +65,7 @@ Outside of building, I'm into travel, bouldering, padel, and music — and a lon
 
 ## 📫 Let's Connect
 
-- 🤝 **Partnerships & business:** [runwell.studio](https://runwell.studio) · [hello@runwell.studio](mailto:hello@runwell.studio)
+- 🤝 **Partnerships & business:** [runwell.studio](https://runwell.studio/?utm_source=github&utm_medium=social) · [hello@runwell.studio](mailto:hello@runwell.studio)
 - 💼 **LinkedIn:** [mathieuvanleemputten](https://linkedin.com/in/mathieuvanleemputten)
 - 🗓️ **Book a call:** [app.cal.eu/runwell.studio/30min](https://app.cal.eu/runwell.studio/30min)
 
