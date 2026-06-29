@@ -12,7 +12,6 @@ My background spans architectural design, 3D programming, and balancing between 
 ## 🚀 What I'm Working On
 
 - 🔭 Production systems with **Next.js · React · TypeScript · Sanity CMS · Node · Three.js (R3F)** — plus **n8n / LangChain / Python** for automation and AI orchestration
-- 🌱 Enrolled in the **Master in BIM Software Development** ([That Open Company](https://thatopen.com/)) — bridging AEC and software
 - 🤝 Open to collaborating on forward-thinking digital projects
 - 💬 Ask me about **solo travel, tech, bouldering, music, self-development, architecture, padel**, and more
 - 📩 Reach out: [hello@runwell.studio](mailto:hello@runwell.studio) · [LinkedIn](https://linkedin.com/in/mathieuvanleemputten)
