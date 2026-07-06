@@ -11,7 +11,7 @@ My background spans architectural design, 3D programming, and balancing between 
 
 ## 🚀 What I'm Working On
 
-- 🔭 Production systems with **Next.js · React · TypeScript · Sanity CMS · Node · Three.js (R3F)** — plus **n8n / LangChain / Python** for automation and AI orchestration
+- 🔭 Production systems with **Next.js · React · TypeScript · Sanity CMS · Node · Three.js (R3F)** — plus **n8n / LangChain / Python / claude / Hermes ** for automation and AI orchestration
 - 🤝 Open to collaborating on forward-thinking digital projects
 - 💬 Ask me about **solo travel, tech, bouldering, music, self-development, architecture, padel**, and more
 - 📩 Reach out: [hello@runwell.studio](mailto:hello@runwell.studio) · [LinkedIn](https://linkedin.com/in/mathieuvanleemputten)
